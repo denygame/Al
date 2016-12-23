@@ -1,0 +1,15 @@
+﻿Bài toán chia tài sản <dùng giải thuật tham lam>
+
+Trong ngày sinh nhật, hai anh em Tom và Alice nhận được N(N<10)
+đồ chơi. Trên đồ chơi i có ghi giá tiền X(i). Hai anh em quyết
+định mỗi người phải có trách nhiệm bảo quản một phần số quà và
+phân chia sao cho chênh lệch tổng giá trị tiền đồ chơi mà mỗi 
+người bảo quản là ít nhất. Hãy giúp Tom và Alice phân chia.
+
+
+GIẢI THUẬT THAM LAM:
+	+ Sắp xếp các món quà theo giá trị giảm dần.
+	+ Gán món quà đầu tiên, tức là món quà có giá trị lớn nhất
+cho một trong hai người.
+	+ So sánh tổng giá trị của các món quà đã chia cho 2 người,
+ai ít hơn thì thêm món quà tiếp theo vào.

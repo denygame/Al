@@ -1,0 +1,11 @@
+D:\TEST\NguoiDuLich_ThamLam\NguoiDuLich_ThamLam\bin\Debug\NguoiDuLich_ThamLam.exe.config
+D:\TEST\NguoiDuLich_ThamLam\NguoiDuLich_ThamLam\bin\Debug\NguoiDuLich_ThamLam.exe
+D:\TEST\NguoiDuLich_ThamLam\NguoiDuLich_ThamLam\bin\Debug\NguoiDuLich_ThamLam.pdb
+D:\TEST\NguoiDuLich_ThamLam\NguoiDuLich_ThamLam\obj\Debug\NguoiDuLich_ThamLam.exe
+D:\TEST\NguoiDuLich_ThamLam\NguoiDuLich_ThamLam\obj\Debug\NguoiDuLich_ThamLam.pdb
+D:\New folder\NguoiDuLich_ThamLam\NguoiDuLich_ThamLam\bin\Debug\NguoiDuLich_ThamLam.exe.config
+D:\New folder\NguoiDuLich_ThamLam\NguoiDuLich_ThamLam\bin\Debug\NguoiDuLich_ThamLam.exe
+D:\New folder\NguoiDuLich_ThamLam\NguoiDuLich_ThamLam\bin\Debug\NguoiDuLich_ThamLam.pdb
+D:\New folder\NguoiDuLich_ThamLam\NguoiDuLich_ThamLam\obj\Debug\NguoiDuLich_ThamLam.csprojResolveAssemblyReference.cache
+D:\New folder\NguoiDuLich_ThamLam\NguoiDuLich_ThamLam\obj\Debug\NguoiDuLich_ThamLam.exe
+D:\New folder\NguoiDuLich_ThamLam\NguoiDuLich_ThamLam\obj\Debug\NguoiDuLich_ThamLam.pdb

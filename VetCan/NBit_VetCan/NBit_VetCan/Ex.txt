@@ -1,0 +1,3 @@
+﻿NBit dùng vét cạn, nhập số bit cần hiển thị, xuất tất cả tổ hợp <000 ... 111>
+
+Lưu ý: vòng lặp sau lặp trước 

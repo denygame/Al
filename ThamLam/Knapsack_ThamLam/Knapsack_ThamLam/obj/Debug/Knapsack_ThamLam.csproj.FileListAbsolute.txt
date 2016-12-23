@@ -1,0 +1,12 @@
+D:\TEST\Knapsack_ThamLam\Knapsack_ThamLam\bin\Debug\Knapsack_ThamLam.exe.config
+D:\TEST\Knapsack_ThamLam\Knapsack_ThamLam\bin\Debug\Knapsack_ThamLam.exe
+D:\TEST\Knapsack_ThamLam\Knapsack_ThamLam\bin\Debug\Knapsack_ThamLam.pdb
+D:\TEST\Knapsack_ThamLam\Knapsack_ThamLam\obj\Debug\Knapsack_ThamLam.csprojResolveAssemblyReference.cache
+D:\TEST\Knapsack_ThamLam\Knapsack_ThamLam\obj\Debug\Knapsack_ThamLam.exe
+D:\TEST\Knapsack_ThamLam\Knapsack_ThamLam\obj\Debug\Knapsack_ThamLam.pdb
+D:\New folder\Knapsack_ThamLam\Knapsack_ThamLam\bin\Debug\Knapsack_ThamLam.exe.config
+D:\New folder\Knapsack_ThamLam\Knapsack_ThamLam\obj\Debug\Knapsack_ThamLam.exe
+D:\New folder\Knapsack_ThamLam\Knapsack_ThamLam\obj\Debug\Knapsack_ThamLam.pdb
+D:\New folder\Knapsack_ThamLam\Knapsack_ThamLam\bin\Debug\Knapsack_ThamLam.exe
+D:\New folder\Knapsack_ThamLam\Knapsack_ThamLam\bin\Debug\Knapsack_ThamLam.pdb
+D:\New folder\Knapsack_ThamLam\Knapsack_ThamLam\obj\Debug\Knapsack_ThamLam.csprojResolveAssemblyReference.cache

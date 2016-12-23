@@ -1,0 +1,11 @@
+D:\TEST\NguoiDuLich_VetCan\NguoiDuLich_VetCan\bin\Debug\NguoiDuLich_VetCan.exe.config
+D:\TEST\NguoiDuLich_VetCan\NguoiDuLich_VetCan\bin\Debug\NguoiDuLich_VetCan.exe
+D:\TEST\NguoiDuLich_VetCan\NguoiDuLich_VetCan\bin\Debug\NguoiDuLich_VetCan.pdb
+D:\TEST\NguoiDuLich_VetCan\NguoiDuLich_VetCan\obj\Debug\NguoiDuLich_VetCan.exe
+D:\TEST\NguoiDuLich_VetCan\NguoiDuLich_VetCan\obj\Debug\NguoiDuLich_VetCan.pdb
+D:\New folder\NguoiDuLich_VetCan\NguoiDuLich_VetCan\bin\Debug\NguoiDuLich_VetCan.exe.config
+D:\New folder\NguoiDuLich_VetCan\NguoiDuLich_VetCan\obj\Debug\NguoiDuLich_VetCan.exe
+D:\New folder\NguoiDuLich_VetCan\NguoiDuLich_VetCan\obj\Debug\NguoiDuLich_VetCan.pdb
+D:\New folder\NguoiDuLich_VetCan\NguoiDuLich_VetCan\bin\Debug\NguoiDuLich_VetCan.exe
+D:\New folder\NguoiDuLich_VetCan\NguoiDuLich_VetCan\bin\Debug\NguoiDuLich_VetCan.pdb
+D:\New folder\NguoiDuLich_VetCan\NguoiDuLich_VetCan\obj\Debug\NguoiDuLich_VetCan.csprojResolveAssemblyReference.cache

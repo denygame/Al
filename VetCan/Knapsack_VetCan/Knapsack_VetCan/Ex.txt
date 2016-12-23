@@ -1,0 +1,5 @@
+﻿Bài toán cái túi, xếp balo <Knapsack problem> (sử dụng vét cạn)
+
+Có n đồ vật, mỗi đồ vật có giá trị v(i), trọng lượng w(i).
+Một người có khả năng mang được balo trọng lượng W, hãy
+lựa chọn các đồ vật sao cho <= W và giá trị max có thể.

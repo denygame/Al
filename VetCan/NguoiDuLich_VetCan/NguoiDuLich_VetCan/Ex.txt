@@ -1,0 +1,6 @@
+﻿Bài toán người du lịch <Travelling Salesman Problem (TSP)>
+
+Có n thành phố, d[i,j] là chi phí di chuyển từ thành phố i đến thành phố j
+(nếu không có đường đi thì d[i,j] = vô cùng). Một người muốn đi du lịch qua
+tất cả thành phố, mỗi thành phố đi qua 1 lần rồi trở về điểm xuất phát sao cho
+tổng chi phí là nhỏ nhất. Hãy xác định 1 đường đi như vậy.

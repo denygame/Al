@@ -1,0 +1,12 @@
+D:\TEST\ToHop_VetCan\ToHop_VetCan\bin\Debug\ToHop_VetCan.exe.config
+D:\TEST\ToHop_VetCan\ToHop_VetCan\bin\Debug\ToHop_VetCan.exe
+D:\TEST\ToHop_VetCan\ToHop_VetCan\bin\Debug\ToHop_VetCan.pdb
+D:\TEST\ToHop_VetCan\ToHop_VetCan\obj\Debug\ToHop_VetCan.csprojResolveAssemblyReference.cache
+D:\TEST\ToHop_VetCan\ToHop_VetCan\obj\Debug\ToHop_VetCan.exe
+D:\TEST\ToHop_VetCan\ToHop_VetCan\obj\Debug\ToHop_VetCan.pdb
+D:\New folder\ToHop_VetCan\ToHop_VetCan\bin\Debug\ToHop_VetCan.exe.config
+D:\New folder\ToHop_VetCan\ToHop_VetCan\obj\Debug\ToHop_VetCan.exe
+D:\New folder\ToHop_VetCan\ToHop_VetCan\obj\Debug\ToHop_VetCan.pdb
+D:\New folder\ToHop_VetCan\ToHop_VetCan\bin\Debug\ToHop_VetCan.exe
+D:\New folder\ToHop_VetCan\ToHop_VetCan\bin\Debug\ToHop_VetCan.pdb
+D:\New folder\ToHop_VetCan\ToHop_VetCan\obj\Debug\ToHop_VetCan.csprojResolveAssemblyReference.cache

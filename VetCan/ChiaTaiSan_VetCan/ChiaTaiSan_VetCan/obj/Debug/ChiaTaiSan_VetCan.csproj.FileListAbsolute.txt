@@ -1,0 +1,12 @@
+D:\TEST\ChiaTaiSan_VetCan\ChiaTaiSan_VetCan\bin\Debug\ChiaTaiSan_VetCan.exe.config
+D:\TEST\ChiaTaiSan_VetCan\ChiaTaiSan_VetCan\bin\Debug\ChiaTaiSan_VetCan.exe
+D:\TEST\ChiaTaiSan_VetCan\ChiaTaiSan_VetCan\bin\Debug\ChiaTaiSan_VetCan.pdb
+D:\TEST\ChiaTaiSan_VetCan\ChiaTaiSan_VetCan\obj\Debug\ChiaTaiSan_VetCan.csprojResolveAssemblyReference.cache
+D:\TEST\ChiaTaiSan_VetCan\ChiaTaiSan_VetCan\obj\Debug\ChiaTaiSan_VetCan.exe
+D:\TEST\ChiaTaiSan_VetCan\ChiaTaiSan_VetCan\obj\Debug\ChiaTaiSan_VetCan.pdb
+D:\New folder\ChiaTaiSan_VetCan\ChiaTaiSan_VetCan\bin\Debug\ChiaTaiSan_VetCan.exe.config
+D:\New folder\ChiaTaiSan_VetCan\ChiaTaiSan_VetCan\obj\Debug\ChiaTaiSan_VetCan.exe
+D:\New folder\ChiaTaiSan_VetCan\ChiaTaiSan_VetCan\obj\Debug\ChiaTaiSan_VetCan.pdb
+D:\New folder\ChiaTaiSan_VetCan\ChiaTaiSan_VetCan\bin\Debug\ChiaTaiSan_VetCan.exe
+D:\New folder\ChiaTaiSan_VetCan\ChiaTaiSan_VetCan\bin\Debug\ChiaTaiSan_VetCan.pdb
+D:\New folder\ChiaTaiSan_VetCan\ChiaTaiSan_VetCan\obj\Debug\ChiaTaiSan_VetCan.csprojResolveAssemblyReference.cache

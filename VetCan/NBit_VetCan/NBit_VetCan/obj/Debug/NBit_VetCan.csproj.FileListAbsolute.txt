@@ -1,0 +1,12 @@
+D:\NBit_VetCan\NBit_VetCan\bin\Debug\NBit_VetCan.exe.config
+D:\NBit_VetCan\NBit_VetCan\bin\Debug\NBit_VetCan.exe
+D:\NBit_VetCan\NBit_VetCan\bin\Debug\NBit_VetCan.pdb
+D:\NBit_VetCan\NBit_VetCan\obj\Debug\NBit_VetCan.csprojResolveAssemblyReference.cache
+D:\NBit_VetCan\NBit_VetCan\obj\Debug\NBit_VetCan.exe
+D:\NBit_VetCan\NBit_VetCan\obj\Debug\NBit_VetCan.pdb
+D:\New folder\NBit_VetCan\NBit_VetCan\bin\Debug\NBit_VetCan.exe.config
+D:\New folder\NBit_VetCan\NBit_VetCan\obj\Debug\NBit_VetCan.exe
+D:\New folder\NBit_VetCan\NBit_VetCan\obj\Debug\NBit_VetCan.pdb
+D:\New folder\NBit_VetCan\NBit_VetCan\bin\Debug\NBit_VetCan.exe
+D:\New folder\NBit_VetCan\NBit_VetCan\bin\Debug\NBit_VetCan.pdb
+D:\New folder\NBit_VetCan\NBit_VetCan\obj\Debug\NBit_VetCan.csprojResolveAssemblyReference.cache

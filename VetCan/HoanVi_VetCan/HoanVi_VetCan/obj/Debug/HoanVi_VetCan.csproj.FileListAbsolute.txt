@@ -1,0 +1,11 @@
+D:\TEST\HoanVi_VetCan\HoanVi_VetCan\bin\Debug\HoanVi_VetCan.exe.config
+D:\TEST\HoanVi_VetCan\HoanVi_VetCan\bin\Debug\HoanVi_VetCan.exe
+D:\TEST\HoanVi_VetCan\HoanVi_VetCan\bin\Debug\HoanVi_VetCan.pdb
+D:\TEST\HoanVi_VetCan\HoanVi_VetCan\obj\Debug\HoanVi_VetCan.exe
+D:\TEST\HoanVi_VetCan\HoanVi_VetCan\obj\Debug\HoanVi_VetCan.pdb
+D:\New folder\HoanVi_VetCan\HoanVi_VetCan\bin\Debug\HoanVi_VetCan.exe.config
+D:\New folder\HoanVi_VetCan\HoanVi_VetCan\obj\Debug\HoanVi_VetCan.exe
+D:\New folder\HoanVi_VetCan\HoanVi_VetCan\obj\Debug\HoanVi_VetCan.pdb
+D:\New folder\HoanVi_VetCan\HoanVi_VetCan\bin\Debug\HoanVi_VetCan.exe
+D:\New folder\HoanVi_VetCan\HoanVi_VetCan\bin\Debug\HoanVi_VetCan.pdb
+D:\New folder\HoanVi_VetCan\HoanVi_VetCan\obj\Debug\HoanVi_VetCan.csprojResolveAssemblyReference.cache

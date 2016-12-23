@@ -1,0 +1,3 @@
+﻿Chỉnh hợp không lặp chập k của n.
+
+n>=1

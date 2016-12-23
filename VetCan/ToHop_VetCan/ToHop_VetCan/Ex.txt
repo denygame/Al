@@ -1,0 +1,3 @@
+﻿Tổ hợp chập k của n phần từ
+
+nhập n tức là = {1,2,...,n}

@@ -1,0 +1,16 @@
+﻿﻿Bài toán chia tài sản <dùng giải thuật vét cạn>
+
+Trong ngày sinh nhật, hai anh em Tom và Alice nhận được N(N<10)
+đồ chơi. Trên đồ chơi i có ghi giá tiền X(i). Hai anh em quyết
+định mỗi người phải có trách nhiệm bảo quản một phần số quà và
+phân chia sao cho chênh lệch tổng giá trị tiền đồ chơi mà mỗi 
+người bảo quản là ít nhất. Hãy giúp Tom và Alice phân chia.
+
+
+GIẢI THUẬT VÉT CẠN:
+	Tương tự bài toán knapsack, ta vét cạn các trường hợp
+1 người nhận các món quà, các phần quà ng đó k nhận
+tức là người khác nhận.
+	=> Từ đó tìm trường hợp tối ưu bằng cách duyệt vét cạn tìm
+xem có trường hợp nào ng đó nhận gần bằng 1/2 giá trị tổng các
+món quà

@@ -1,0 +1,33 @@
+E:\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.exe.config
+E:\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.exe
+E:\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.pdb
+E:\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.csprojResolveAssemblyReference.cache
+E:\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.exe
+E:\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.pdb
+C:\Users\C01\Source\Repos\ExPTTKGT\THAMLAM\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.exe.config
+C:\Users\C01\Source\Repos\ExPTTKGT\THAMLAM\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.exe
+C:\Users\C01\Source\Repos\ExPTTKGT\THAMLAM\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.pdb
+C:\Users\C01\Source\Repos\ExPTTKGT\THAMLAM\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.exe
+C:\Users\C01\Source\Repos\ExPTTKGT\THAMLAM\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.pdb
+C:\Users\C01\Source\Repos\ExPTTKGT\THAMLAM\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\ExPTTKGT\THAMLAM\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.exe.config
+C:\Users\Administrator\Source\Repos\ExPTTKGT\THAMLAM\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.exe
+C:\Users\Administrator\Source\Repos\ExPTTKGT\THAMLAM\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.pdb
+D:\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.exe.config
+D:\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.exe
+D:\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.pdb
+D:\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.exe
+D:\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.pdb
+D:\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.csprojResolveAssemblyReference.cache
+D:\New folder\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.exe.config
+D:\New folder\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.exe
+D:\New folder\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.pdb
+D:\New folder\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.exe
+D:\New folder\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.pdb
+D:\New folder\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.csprojResolveAssemblyReference.cache
+D:\VCTL\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.exe.config
+D:\VCTL\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.exe
+D:\VCTL\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.pdb
+D:\VCTL\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.exe
+D:\VCTL\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\bin\Debug\ChiaTaiSan_ThamLam.pdb
+D:\VCTL\ChiaTaiSan_ThamLam\ChiaTaiSan_ThamLam\obj\Debug\ChiaTaiSan_ThamLam.csprojResolveAssemblyReference.cache

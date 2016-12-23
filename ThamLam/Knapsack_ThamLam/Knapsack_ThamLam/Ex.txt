@@ -1,0 +1,4 @@
+﻿Bài toán cái túi <dùng thuật toán tham lam>
+
+Lưu ý: Thuật toán tham lam chưa chắc đưa ra trường hợp tối ưu
+		Muốn tối ưu xem vét cạn

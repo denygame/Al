@@ -1,0 +1,11 @@
+D:\TEST\ChinhHopKhongLap_VetCan\ChinhHopKhongLap_VetCan\bin\Debug\ChinhHopKhongLap_VetCan.exe.config
+D:\TEST\ChinhHopKhongLap_VetCan\ChinhHopKhongLap_VetCan\bin\Debug\ChinhHopKhongLap_VetCan.exe
+D:\TEST\ChinhHopKhongLap_VetCan\ChinhHopKhongLap_VetCan\bin\Debug\ChinhHopKhongLap_VetCan.pdb
+D:\TEST\ChinhHopKhongLap_VetCan\ChinhHopKhongLap_VetCan\obj\Debug\ChinhHopKhongLap_VetCan.exe
+D:\TEST\ChinhHopKhongLap_VetCan\ChinhHopKhongLap_VetCan\obj\Debug\ChinhHopKhongLap_VetCan.pdb
+D:\New folder\ChinhHopKhongLap_VetCan\ChinhHopKhongLap_VetCan\bin\Debug\ChinhHopKhongLap_VetCan.exe.config
+D:\New folder\ChinhHopKhongLap_VetCan\ChinhHopKhongLap_VetCan\obj\Debug\ChinhHopKhongLap_VetCan.exe
+D:\New folder\ChinhHopKhongLap_VetCan\ChinhHopKhongLap_VetCan\obj\Debug\ChinhHopKhongLap_VetCan.pdb
+D:\New folder\ChinhHopKhongLap_VetCan\ChinhHopKhongLap_VetCan\bin\Debug\ChinhHopKhongLap_VetCan.exe
+D:\New folder\ChinhHopKhongLap_VetCan\ChinhHopKhongLap_VetCan\bin\Debug\ChinhHopKhongLap_VetCan.pdb
+D:\New folder\ChinhHopKhongLap_VetCan\ChinhHopKhongLap_VetCan\obj\Debug\ChinhHopKhongLap_VetCan.csprojResolveAssemblyReference.cache

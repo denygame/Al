@@ -1,0 +1,15 @@
+E:\MaxMin_ThamLam\MaxMin_ThamLam\bin\Debug\MaxMin_ThamLam.exe.config
+E:\MaxMin_ThamLam\MaxMin_ThamLam\obj\Debug\MaxMin_ThamLam.csprojResolveAssemblyReference.cache
+E:\MaxMin_ThamLam\MaxMin_ThamLam\bin\Debug\MaxMin_ThamLam.exe
+E:\MaxMin_ThamLam\MaxMin_ThamLam\bin\Debug\MaxMin_ThamLam.pdb
+E:\MaxMin_ThamLam\MaxMin_ThamLam\obj\Debug\MaxMin_ThamLam.exe
+E:\MaxMin_ThamLam\MaxMin_ThamLam\obj\Debug\MaxMin_ThamLam.pdb
+D:\MaxMin_ThamLam\MaxMin_ThamLam\MaxMin_ThamLam\bin\Debug\MaxMin_ThamLam.exe.config
+D:\MaxMin_ThamLam\MaxMin_ThamLam\MaxMin_ThamLam\obj\Debug\MaxMin_ThamLam.exe
+D:\MaxMin_ThamLam\MaxMin_ThamLam\MaxMin_ThamLam\obj\Debug\MaxMin_ThamLam.pdb
+D:\MaxMin_ThamLam\MaxMin_ThamLam\MaxMin_ThamLam\bin\Debug\MaxMin_ThamLam.exe
+D:\MaxMin_ThamLam\MaxMin_ThamLam\MaxMin_ThamLam\bin\Debug\MaxMin_ThamLam.pdb
+D:\MaxMin_ThamLam\MaxMin_ThamLam\MaxMin_ThamLam\obj\Debug\MaxMin_ThamLam.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\pttkgt_Solution\ThamLam\MaxMin_ThamLam\MaxMin_ThamLam\bin\Debug\MaxMin_ThamLam.exe.config
+C:\Users\Administrator\Source\Repos\pttkgt_Solution\ThamLam\MaxMin_ThamLam\MaxMin_ThamLam\obj\Debug\MaxMin_ThamLam.exe
+C:\Users\Administrator\Source\Repos\pttkgt_Solution\ThamLam\MaxMin_ThamLam\MaxMin_ThamLam\obj\Debug\MaxMin_ThamLam.pdb

@@ -1,0 +1,11 @@
+D:\TEST\ATM_ThamLam\ATM_ThamLam\bin\Debug\ATM_ThamLam.exe.config
+D:\TEST\ATM_ThamLam\ATM_ThamLam\bin\Debug\ATM_ThamLam.exe
+D:\TEST\ATM_ThamLam\ATM_ThamLam\bin\Debug\ATM_ThamLam.pdb
+D:\TEST\ATM_ThamLam\ATM_ThamLam\obj\Debug\ATM_ThamLam.exe
+D:\TEST\ATM_ThamLam\ATM_ThamLam\obj\Debug\ATM_ThamLam.pdb
+D:\New folder\ATM_ThamLam\ATM_ThamLam\bin\Debug\ATM_ThamLam.exe.config
+D:\New folder\ATM_ThamLam\ATM_ThamLam\obj\Debug\ATM_ThamLam.exe
+D:\New folder\ATM_ThamLam\ATM_ThamLam\obj\Debug\ATM_ThamLam.pdb
+D:\New folder\ATM_ThamLam\ATM_ThamLam\bin\Debug\ATM_ThamLam.exe
+D:\New folder\ATM_ThamLam\ATM_ThamLam\bin\Debug\ATM_ThamLam.pdb
+D:\New folder\ATM_ThamLam\ATM_ThamLam\obj\Debug\ATM_ThamLam.csprojResolveAssemblyReference.cache

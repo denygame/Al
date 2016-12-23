@@ -1,0 +1,7 @@
+﻿Bài toán Max Min
+
+Nhập vào n số
+Nhập k phần tử (k<n)
+Chọn k phần tử sao cho Max(k) - Min(k) là bé nhất (yêu cầu tối ưu)
+
+=> Giải bằng tham lam bài này ra tối ưu

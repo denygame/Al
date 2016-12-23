@@ -1,0 +1,11 @@
+D:\TEST\Knapsack_VetCan\Knapsack_VetCan\bin\Debug\Knapsack_VetCan.exe.config
+D:\TEST\Knapsack_VetCan\Knapsack_VetCan\bin\Debug\Knapsack_VetCan.exe
+D:\TEST\Knapsack_VetCan\Knapsack_VetCan\bin\Debug\Knapsack_VetCan.pdb
+D:\TEST\Knapsack_VetCan\Knapsack_VetCan\obj\Debug\Knapsack_VetCan.exe
+D:\TEST\Knapsack_VetCan\Knapsack_VetCan\obj\Debug\Knapsack_VetCan.pdb
+D:\New folder\Knapsack_VetCan\Knapsack_VetCan\bin\Debug\Knapsack_VetCan.exe.config
+D:\New folder\Knapsack_VetCan\Knapsack_VetCan\obj\Debug\Knapsack_VetCan.exe
+D:\New folder\Knapsack_VetCan\Knapsack_VetCan\obj\Debug\Knapsack_VetCan.pdb
+D:\New folder\Knapsack_VetCan\Knapsack_VetCan\bin\Debug\Knapsack_VetCan.exe
+D:\New folder\Knapsack_VetCan\Knapsack_VetCan\bin\Debug\Knapsack_VetCan.pdb
+D:\New folder\Knapsack_VetCan\Knapsack_VetCan\obj\Debug\Knapsack_VetCan.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+﻿Bài toán Hoán Vị <lớp 11 cùng vs Tổ hợp, Chỉnh hợp>
+
+Liệt kê tất cả các Hoán Vị của ptu trong mảng
